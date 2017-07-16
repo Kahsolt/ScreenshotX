@@ -1,0 +1,9 @@
+D:\Kahsolt\Documents\Visual Studio 2015\Projects\Visual C#\ScreenshotX Kernel\ScreenshotX Kernel\obj\Debug\ScreenshotX Kernel.csprojResolveAssemblyReference.cache
+D:\Kahsolt\Documents\Visual Studio 2015\Projects\Visual C#\ScreenshotX Kernel\ScreenshotX Kernel\obj\Debug\ScreenshotX.Main.resources
+D:\Kahsolt\Documents\Visual Studio 2015\Projects\Visual C#\ScreenshotX Kernel\ScreenshotX Kernel\obj\Debug\ScreenshotX.Properties.Resources.resources
+D:\Kahsolt\Documents\Visual Studio 2015\Projects\Visual C#\ScreenshotX Kernel\ScreenshotX Kernel\obj\Debug\ScreenshotX Kernel.csproj.GenerateResource.Cache
+D:\Kahsolt\Documents\Visual Studio 2015\Projects\Visual C#\ScreenshotX Kernel\ScreenshotX Kernel\bin\Debug\ScreenshotX Kernel.exe.config
+D:\Kahsolt\Documents\Visual Studio 2015\Projects\Visual C#\ScreenshotX Kernel\ScreenshotX Kernel\bin\Debug\ScreenshotX Kernel.exe
+D:\Kahsolt\Documents\Visual Studio 2015\Projects\Visual C#\ScreenshotX Kernel\ScreenshotX Kernel\bin\Debug\ScreenshotX Kernel.pdb
+D:\Kahsolt\Documents\Visual Studio 2015\Projects\Visual C#\ScreenshotX Kernel\ScreenshotX Kernel\obj\Debug\ScreenshotX Kernel.exe
+D:\Kahsolt\Documents\Visual Studio 2015\Projects\Visual C#\ScreenshotX Kernel\ScreenshotX Kernel\obj\Debug\ScreenshotX Kernel.pdb
